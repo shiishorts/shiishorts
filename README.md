@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 ![stats image](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!--
 **shiishorts/shiishorts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
